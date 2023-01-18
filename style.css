@@ -1,0 +1,19 @@
+/* Stylesheet for ic-02 */
+
+body {
+	font-family: Arial;
+	background-color: #e0e0e0
+}
+
+.centered {
+	text-align: center;
+}
+
+.container {
+	border-style: groove;
+}
+
+#p1 {
+	color: darkgreen;
+}
+
